@@ -1,1 +1,4 @@
-test koen test
+test koen test {
+    ++
+    var kaas = 0;
+}
